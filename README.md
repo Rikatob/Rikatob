@@ -3,13 +3,13 @@
 - 🤔 I’m looking for help with everything.
 - 💬 Ask me about ... please dont ask.
   
-| - Links to exams, both individual and group. | - Links to play projects. |
-  --------------------------------------------   --------------------------
-|- [Embedded Systems](https://github.com/Rikatob/ExamWireGame) | - [Kattis tasks](https://github.com/Rikatob/Kattiss)|
-|- [Backend Programming](https://github.com/kristiania-pgr209-2022/pg209exam-Fargekritt) |
-|- [Software Design](https://github.com/Fargekritt/SoftwareDesignEksamen) |
-|- [Agile Project](https://github.com/Fargekritt/SmidigEksamen) |
-|- [C in Linux](https://github.com/Rikatob/PG304_V23_1018) |
+|  Links to exams, both individual and group. |  Links to hobby projects. |
+| -------------------------------------------- | ------------------------- |
+| - [Embedded Systems](https://github.com/Rikatob/ExamWireGame) | - [Kattis tasks](https://github.com/Rikatob/Kattiss)|
+| - [Backend Programming](https://github.com/kristiania-pgr209-2022/pg209exam-Fargekritt) |
+| - [Software Design](https://github.com/Fargekritt/SoftwareDesignEksamen) |
+| - [Agile Project](https://github.com/Fargekritt/SmidigEksamen) |
+| - [C in Linux](https://github.com/Rikatob/PG304_V23_1018) |
 
 
   
